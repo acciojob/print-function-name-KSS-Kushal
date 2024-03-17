@@ -1,5 +1,4 @@
 //your JS code here. If required.
-const functionName = () => {
+function functionName() {
 	alert(arguments.callee.name);
 }
-functionName();
